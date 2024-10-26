@@ -80,7 +80,6 @@ function Contact() {
         </div>
 
       </div>
-      <button id='cv-btn' className="btn btn-primary" onClick={handleDownload}><FaDownload/>  CV</button>
 
     </section>
   )
