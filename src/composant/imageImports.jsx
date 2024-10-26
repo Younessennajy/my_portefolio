@@ -17,9 +17,11 @@ import page_Etudiant  from './../assets/imgGLS/page_Etudiant.png';
 import page_Prof from './../assets/imgGLS/page_Prof.png';
 import profile_user from './../assets/imgGLS/profile_user.png';
 import pagination from './../assets/imgGLS/pagination.png';
+import education from './../assets/img/education.png';
 
 export {
   pro1,
+  education,
   portefolio,
   homepageGLS,
   about_fact,

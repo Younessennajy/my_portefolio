@@ -65,7 +65,7 @@ function About() {
           <div className="row">
             <div className="col-lg-6">
               <ul>
-                <li><i></i> <strong>Status:</strong> <span>Single</span></li>
+                <li><i></i> <strong>Email:</strong> <span>younessennajy30@gmail.com</span></li>
                 <li><i></i> <strong>Phone:</strong> <span>+212 649962806</span></li>
                 <li><i></i> <strong>City:</strong> <span>Morroco, Fés</span></li>
               </ul>
@@ -73,7 +73,6 @@ function About() {
             <div className="col-lg-6">
               <ul>
                 <li><></> <strong>Degree:</strong> <span>BAC +2</span></li>
-                <li><i></i> <strong>Email:</strong> <span>younessennajy30@gmail.com</span></li>
                 <li><i></i> <strong>Freelance:</strong> <span>Available</span></li>
               </ul>
             </div>

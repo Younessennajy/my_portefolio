@@ -46,7 +46,7 @@ function Facts() {
           <div className="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
             <div className="count-box">
               <i><FaStar /></i>
-              <span>+3</span>
+              <span>+5</span>
               <p><strong>BEST </strong> WEBSITE </p>
             </div>
           </div>
@@ -54,7 +54,7 @@ function Facts() {
           <div className="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
             <div className="count-box">
               <i><FaProjectDiagram/></i>
-              <span>+6</span>
+              <span>+8</span>
               <p><strong>FINISHED </strong> PROJECTS</p>
             </div>
           </div>
