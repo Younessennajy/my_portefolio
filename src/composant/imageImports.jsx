@@ -18,6 +18,7 @@ import page_Prof from './../assets/imgGLS/page_Prof.png';
 import profile_user from './../assets/imgGLS/profile_user.png';
 import pagination from './../assets/imgGLS/pagination.png';
 import education from './../assets/img/education.png';
+import aecom from './../assets/img/aecom.png';
 
 export {
   pro1,
@@ -37,5 +38,6 @@ export {
   page_Etudiant,
   page_Prof,
   profile_user,
-  pagination
+  pagination,
+  aecom
 };

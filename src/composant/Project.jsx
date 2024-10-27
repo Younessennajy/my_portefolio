@@ -5,7 +5,7 @@ import { motion } from 'framer-motion';
 
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
-import { pro1,education, portefolio, homepageGLS, about_fact, contact, edit, Activities, ajouter_cours, chercher_par_nom, login, filtrer_niveaux, footer, Galeries, page_Etudiant, page_Prof, profile_user, pagination } from './imageImports'; // Importe les images
+import { pro1,education, portefolio, homepageGLS, about_fact, contact, edit, Activities, ajouter_cours, chercher_par_nom, login, filtrer_niveaux, footer, Galeries, page_Etudiant, page_Prof, profile_user, pagination,aecom } from './imageImports'; // Importe les images
 
 function Project() {
   const inimateproject = {
@@ -35,6 +35,9 @@ function Project() {
     { id: 4, img: education,
        href: 'https://web-edu-cation.vercel.app/',
        title: 'Education cources', desc: '\"Reactjs/TailwindCss\"' },
+    { id: 5, img: aecom,
+    href: 'https://a-ecom.vercel.app/',
+    title: 'E-commerce website', desc: '\"Reactjs"' },
      
   ];
 
