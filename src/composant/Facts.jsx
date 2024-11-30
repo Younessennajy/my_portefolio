@@ -46,7 +46,11 @@ function Facts() {
           <div className="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
             <div className="count-box">
               <i><FaStar /></i>
+<<<<<<< HEAD
               <span>+8</span>
+=======
+              <span>+5</span>
+>>>>>>> 50badf2542c7f857aa32cdebe145319a6a5960e5
               <p><strong>BEST </strong> WEBSITE </p>
             </div>
           </div>
@@ -54,7 +58,11 @@ function Facts() {
           <div className="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
             <div className="count-box">
               <i><FaProjectDiagram/></i>
+<<<<<<< HEAD
               <span>+14</span>
+=======
+              <span>+8</span>
+>>>>>>> 50badf2542c7f857aa32cdebe145319a6a5960e5
               <p><strong>FINISHED </strong> PROJECTS</p>
             </div>
           </div>

@@ -304,6 +304,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
+<<<<<<< HEAD
   background: url("../assets/hero.png") center center no-repeat;
   background-size: cover;
   position: relative;
@@ -332,6 +333,22 @@ h6 {
   color: #fff;
 }
 
+=======
+  background: url("../assets/img/profile.png")  center;
+  background-size: cover;
+}
+
+#hero:before {
+  content: "";
+  background: rgba(5, 13, 24, 0.3);
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+>>>>>>> 50badf2542c7f857aa32cdebe145319a6a5960e5
 .project-item {
   cursor: pointer;
   transition: transform 0.3s;
@@ -356,6 +373,7 @@ h6 {
 .project-title.visible {
   opacity: 1;
 }
+<<<<<<< HEAD
 .hero-container h1 {
   font-size: 3rem;
   font-weight: bold;
@@ -375,6 +393,8 @@ h6 {
   font-weight: 500;
   animation: typing 4s steps(30) 1s forwards;
 }
+=======
+>>>>>>> 50badf2542c7f857aa32cdebe145319a6a5960e5
 
 #hero .hero-container {
   position: relative;

@@ -1,5 +1,9 @@
 import React from 'react'
+<<<<<<< HEAD
 import profile_img from './../assets/img/about.png'
+=======
+import profile_img from './../assets/img/emg2.jpeg'
+>>>>>>> 50badf2542c7f857aa32cdebe145319a6a5960e5
 import {motion} from 'framer-motion'
 function About() {
   
